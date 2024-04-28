@@ -2,7 +2,7 @@
 - I am a music producer and have nothing to do here 
 - I'm learning C#, python, HTML, CSS, JS, etc because i love to suffer
 - I do not know how to use git hub
-- Hit me up on instagram - @__.six___
+- Hit me up on instagram - @gokurishi_6
 - ⚡ Fun fact: I dont know how to print hello world in any programming language
 
 <!---
